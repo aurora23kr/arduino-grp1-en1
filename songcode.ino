@@ -22,6 +22,35 @@ int sixteenth = tempo/6;
 int dothalf = tempo * (10/9)
 int eighth = tempo/
 
+noTone (output);
+delay (2000);
+
+noTone (output);
+delay (500);
+
+tone (output, B5);
+delay (eighth);
+
+tone (output, B5);
+delay (eighth);
+
+tone (output, B5);
+delay (eighth);
+
+tone (output, D5);
+delay (quarter);
+
+tone (output, B5);
+delay (quarter);
+
+noTone (output);
+delay (2000);
+
+noTone (output);
+delay (500);
+
+
+
 
   // Malika's code
 
