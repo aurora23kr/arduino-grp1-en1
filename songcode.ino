@@ -18,33 +18,83 @@ int quarter = 556;
 int sixteenth = 139;
 int eighth = 278;
 
-noTone (output);
-delay (2000);
+int miniDelay = 10;
 
 noTone (output);
-delay (500);
+delay (half);
+delay(miniDelay);
+
+noTone (output);
+delay (eight);
+delay(miniDelay);
 
 tone (output, B5);
 delay (eighth);
+noTone(output);
+delay(miniDelay);
 
-tone (output, B5);
-delay (eighth);
+tone (output, B5);    
+delay (sixteenth);
+noTone(output);
+delay(miniDelay);
 
-tone (output, B5);
-delay (eighth);
+tone (output, B5);    
+delay (sixteenth);
+noTone(output);
+delay(miniDelay);
 
 tone (output, D5);
 delay (quarter);
+noTone(output);
+delay(miniDelay);
 
 tone (output, B5);
 delay (quarter);
+noTone(output);
+delay(miniDelay);
 
 noTone (output);
-delay (2000);
+delay (half);
+delay(miniDelay);
 
 noTone (output);
-delay (500);
+delay (eight);
+delay(miniDelay);
 
+tone (output, B5);
+delay (eighth);
+noTone(output);
+delay(miniDelay);
+
+tone (output, B5);    
+delay (sixteenth);
+noTone(output);
+delay(miniDelay);
+
+tone (output, B5);    
+delay (sixteenth);
+noTone(output);
+delay(miniDelay);
+
+tone (output, D5);
+delay (sixteenth/4);
+noTone(output);
+delay(miniDelay);
+
+tone (output, B5);    
+delay (sixteenth/4);
+noTone(output);
+delay(miniDelay);
+
+tone (output, B5);    
+delay (sixteenth/4);
+noTone(output);
+delay(miniDelay);
+
+tone (output, B5);    
+delay (sixteenth/4);
+noTone(output);
+delay(miniDelay);
 
 }
 
