@@ -63,17 +63,6 @@ delay(miniDelay);
 
 tone (output, B5);
 delay (eighth);
-<<<<<<< HEAD
-
-tone (output, B5);
-delay (eighth);
-
-tone (output, B5);
-delay (eighth);
-
-
-
-  // Malika's code
 =======
 noTone(output);
 delay(miniDelay);
