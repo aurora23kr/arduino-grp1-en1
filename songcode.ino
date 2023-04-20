@@ -9,7 +9,7 @@ int A5 = 880;
 int F4# = 370;
 int D4 = 294;
 int E4 = 330;
-int G4 = 392
+int G4 = 392;
 
 int whole = 2222;
 int half = 1111;
@@ -45,6 +45,18 @@ delay (2000);
 noTone (output);
 delay (500);
 
+tone (output, B5);
+delay (eighth);
+
+tone (output, B5);
+delay (eighth);
+
+tone (output, B5);
+delay (eighth);
+
+
+
+  // Malika's code
 
 }
 
