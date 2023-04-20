@@ -96,7 +96,7 @@ tone (output, B5);
 delay (sixteenth/4);
 noTone(output);
 delay(miniDelay);
->>>>>>> 2ea791624f86c3befc2ebde478af691904277f43
+
 
 }
 
