@@ -6,10 +6,10 @@ int output = 13;
 int D5 = 587;
 int B5 = 988;
 int A5 = 880;
-int F4# = 370;
+int F4 = 370;
 int D4 = 294;
 int E4 = 330;
-int G4 = 392
+int G4 = 392;
 
 int whole = 2222;
 int half = 1111;
@@ -25,7 +25,7 @@ delay (half);
 delay(miniDelay);
 
 noTone (output);
-delay (eight);
+delay (eighth);
 delay(miniDelay);
 
 tone (output, B5);
