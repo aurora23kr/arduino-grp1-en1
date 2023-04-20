@@ -63,7 +63,6 @@ delay(miniDelay);
 
 tone (output, B5);
 delay (eighth);
-=======
 noTone(output);
 delay(miniDelay);
 
