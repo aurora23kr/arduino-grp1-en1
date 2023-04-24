@@ -97,6 +97,205 @@ noTone(output);
 delay(miniDelay);
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//3rd line
+noTone (output);
+delay (eighth);
+delay(miniDelay);
+
+tone (output, B5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, B5);
+delay (sixteenth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, C5);
+delay (sixteenth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, D5);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, C5);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, B5);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, A5);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, A5);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, G4);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, G4);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, G4);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, G4);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+tone (output, A5);
+delay (sixteenth/4);
+noTone (output);
+delay(miniDelay);
+
+noTone (output);
+delay (quarter);
+delay (miniDelay);
+
+noTone (output);
+delay (quarter);
+delay (miniDelay);
+
+// Line 4
+
+tone (output, D5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
+
+tone (output, B5);
+delay (sixteenth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, D5);
+delay (sixteenth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, G4);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
+
+tone (output, A5);
+delay (half);
+noTone (output);
+delay (miniDelay);
+
+noTone (output);
+delay (half);
+delay (miniDelay);
+
+noTone (output);
+delay (eighth);
+delay (miniDelay);
+
+tone (output, G4);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, D5);
+delay (sixteenth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, B5);
+delay (sixteenth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, B5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
+
+tone (output, G4);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
+
+
+tone ()
+)
+
 }
 
 void loop() {
