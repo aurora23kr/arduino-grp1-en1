@@ -34,12 +34,7 @@ noTone(output);
 delay(miniDelay);
 
 tone (output, B5);    
-delay (sixteenth);
-noTone(output);
-delay(miniDelay);
-
-tone (output, B5);    
-delay (sixteenth);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
@@ -58,7 +53,7 @@ delay (half);
 delay(miniDelay);
 
 noTone (output);
-delay (eight);
+delay (eighth);
 delay(miniDelay);
 
 tone (output, B5);
@@ -67,32 +62,32 @@ noTone(output);
 delay(miniDelay);
 
 tone (output, B5);    
-delay (sixteenth);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
 tone (output, B5);    
-delay (sixteenth);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
 tone (output, D5);
-delay (sixteenth/4);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
 tone (output, B5);    
-delay (sixteenth/4);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
 tone (output, B5);    
-delay (sixteenth/4);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
 tone (output, B5);    
-delay (sixteenth/4);
+delay (eighth);
 noTone(output);
 delay(miniDelay);
 
@@ -165,62 +160,62 @@ noTone (output);
 delay (miniDelay);
 
 tone (output, B5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output, C5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output, D5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, C5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, B5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, A5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, A5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
 tone (output, A5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay(miniDelay);
 
@@ -240,12 +235,12 @@ noTone (output);
 delay (miniDelay);
 
 tone (output, B5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output, D5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
@@ -273,12 +268,12 @@ noTone (output);
 delay (miniDelay);
 
 tone (output, D5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output, B5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
@@ -295,12 +290,12 @@ delay (miniDelay);
 // Line 5
 
 tone (output,A5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,A5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
@@ -310,52 +305,52 @@ noTone (output);
 delay (miniDelay);
 
 tone (output, A5);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,G4);
-delay (sixteenth);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,D5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,D5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,D5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,D5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,B5);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
 tone (output,G4);
-delay (sixteenth/4);
+delay (eighth);
 noTone (output);
 delay (miniDelay);
 
