@@ -99,63 +99,63 @@ delay(miniDelay);
 
  // Line 2
 
+tone (output, E4);
+delay (half);
+noTone (output);
+delay (miniDelay);
 
+noTone (output);
+delay (half);
+delay(miniDelay);
 
+tone (output, B5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
 
+tone (output, B5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
 
+tone (output, D5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
 
+tone (output, B5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
 
+tone (output, D5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
 
+tone (output, D5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
 
+tone (output, B5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
 
+tone (output, D5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
 
+tone (output, B5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+noTone (output);
+delay (half);
+delay(miniDelay);
 
 // Line 3
 
