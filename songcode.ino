@@ -602,6 +602,56 @@ delay (miniDelay);
 
 // Line 10
 
+noTone (output);
+delay (half);
+delay(miniDelay);
+
+noTone (output);
+delay (quarter);
+delay(miniDelay);
+
+tone (output, D5);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, E4);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
+
+noTone (output);
+delay (half);
+delay(miniDelay);
+
+noTone (output);
+delay (quarter);
+delay(miniDelay);
+
+tone (output, B5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
+
+tone (output, A5);
+delay (quarter);
+noTone (output);
+delay (miniDelay);
+
+tone (output, G4);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
+
+tone (output, E4);
+delay (eighth);
+noTone (output);
+delay (miniDelay);
+
+noTone (output);
+delay (half);
+delay(miniDelay);
+
 }
 
 void loop() {
